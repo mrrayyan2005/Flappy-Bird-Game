@@ -23,3 +23,7 @@ pip install pygame
 
 3.Run the game:
 python main.py
+
+![Image](https://github.com/user-attachments/assets/1e0ddbe2-ba75-4de1-82a6-0fe2ab137e5a)
+
+![Image](https://github.com/user-attachments/assets/37b3cb58-c5d1-48d1-8c75-a13bb594d46a)
